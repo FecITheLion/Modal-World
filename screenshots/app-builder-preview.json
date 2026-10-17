@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Modal Worlds",
+      "hasCanvas": false,
+      "bodyTextLen": 1516,
+      "bodyTextHash": "9a8f88e04dc97ce373aaf0e59f3f66532d895d1be0ca665d51f4622ff64512bf",
+      "bodyTextPrefix": "Modal worlds Opening WASM FS… Search the Modal Index Novice Adep",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Modal Worlds",
+      "hasCanvas": false,
+      "bodyTextLen": 1516,
+      "bodyTextHash": "9a8f88e04dc97ce373aaf0e59f3f66532d895d1be0ca665d51f4622ff64512bf",
+      "bodyTextPrefix": "Modal worlds Opening WASM FS… Search the Modal Index Novice Adep",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

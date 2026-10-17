@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Modal Worlds">
+  <rect width="32" height="32" rx="7" fill="#f3f1f8"/>
+  <path d="M16 4.2 27.8 16 16 27.8 4.2 16Z" fill="#3c4ec4"/>
+  <path d="M16 10 22 16 16 22 10 16Z" fill="#f3f1f8"/>
+  <circle cx="16" cy="16" r="2.15" fill="#18794a"/>
+</svg>
